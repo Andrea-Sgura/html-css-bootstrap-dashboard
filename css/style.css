@@ -1,0 +1,9 @@
+.logo{
+    display: flex;
+    width: 75px;
+}
+
+nav.navbar button.navbar-toggler {
+    color: white;
+    width: 50px;
+}
